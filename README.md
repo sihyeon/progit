@@ -7,3 +7,8 @@ You can find the new edition at:
 https://github.com/progit/progit2
 
 If you're looking for the original README content, it can be found in the [README.original.md](README.original.md) file.
+
+[x] Git 스터디 1장
+[x] Git 스터디 2장
+[] Git 스터디 3장
+[] Git 스터디 4장
